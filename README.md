@@ -19,6 +19,7 @@ A simple URL shortener that converts long URLs into short, easy-to-share links. 
 | express    | Web framework for handling API routes |
 | mongoose   | ODM tool for MongoDB |
 | nanoid     | Generates unique short IDs for URLs |
+| nodemon | automatically restarts your Node.js server |
 
 
 

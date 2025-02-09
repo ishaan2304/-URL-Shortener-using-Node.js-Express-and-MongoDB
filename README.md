@@ -29,4 +29,4 @@ git clone https://github.com/ishaan2304/-URL-Shortener-using-Node.js-Express-and
  ```
  2.Install Dependencies
  ```bash
- npm install express mongoose nanoid dotenv cors
+ npm install express mongoose nanoid nodemon

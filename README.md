@@ -28,7 +28,7 @@ A simple URL shortener that converts long URLs into short, easy-to-share links. 
 git clone https://github.com/ishaan2304/-URL-Shortener-using-Node.js-Express-and-MongoDB.git
  ```
  2.Install Dependencies
- Make sure to run command
+ 
  ```bash
 npm install
 ```

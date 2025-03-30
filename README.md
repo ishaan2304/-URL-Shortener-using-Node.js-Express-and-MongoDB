@@ -3,10 +3,10 @@
 A simple URL shortener that converts long URLs into short, easy-to-share links. Built with Node.js, Express.js, MongoDB, and nanoid, this project also tracks analytics like total clicks and visit history.      
 
 # Features
-✔️ Generate short URLs from long links  
-✔️ Store and retrieve URLs from MongoDB  
-✔️ Track total visits for each short URL  
-✔️ Redirect users to the original URL  
+   Generate short URLs from long links  
+   Store and retrieve URLs from MongoDB  
+   Track total visits for each short URL  
+   Redirect users to the original URL  
 
 # Tech Stack
 **Backend:** Node.js, Express.js  
